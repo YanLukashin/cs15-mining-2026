@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[21757,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"default"]
-3:I[61465,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"default"]
-4:I[20348,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"default"]
-14:I[5500,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"Image"]
-15:I[95147,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"default"]
-16:I[29194,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js"],"default"]
+2:I[21757,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"default"]
+3:I[61465,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"default"]
+4:I[20348,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"default"]
+14:I[5500,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"Image"]
+15:I[95147,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"default"]
+16:I[29194,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js","/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js"],"default"]
 17:I[97367,["/cs15-mining-2026/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-mining-2026/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 18:"$Sreact.suspense"
 :HL["/cs15-mining-2026/_next/static/chunks/0we0286crmca0.css","style"]
@@ -22,6 +22,6 @@ e:["$","$L16",null,{"placement":"landing","title":"Получайте новые
 f:["$","footer",null,{"className":"footer shell","children":[["$","div",null,{"className":"brand","children":[["$","span",null,{"className":"brand-mark","children":"B:C"}],["$","span",null,{"children":"BLOCKCAPITAL"}]]}],["$","p",null,{"children":"Материал носит образовательный характер и не является индивидуальной инвестиционной, юридической или налоговой рекомендацией. Расчёты и правила проверяются на дату конкретного решения."}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://theblockcapital.ru/privacy","target":"_blank","rel":"noreferrer","children":"Политика конфиденциальности"}],["$","span",null,{"children":"© 2026 BlockCapital"}]]}]]}]
 10:["$","a",null,{"className":"mobile-cta","href":"#access","data-metrika-goal":"lead_form_cta_click","data-metrika-placement":"mobile_fixed","children":["Открыть запись ",["$","span",null,{"aria-hidden":"true","children":"↓"}]]}]
 11:["$","link","0",{"rel":"stylesheet","href":"/cs15-mining-2026/_next/static/chunks/0we0286crmca0.css","precedence":"next"}]
-12:["$","script","script-0",{"src":"/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.js","async":true}]
+12:["$","script","script-0",{"src":"/cs15-mining-2026/_next/static/chunks/032_e0rwtsxhz.ga4-77d670f93056.js","async":true}]
 13:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
 19:null
